@@ -1,6 +1,6 @@
 # PIÖTOST : A FIRST MANUALLY REVISED LOMBARD-ITALIAN PARALLEL CORPUS
 
-This is the first parallel corpus specifically built for Lombard-Italian. This is a manually revised version of the available alignments from the WikiMatrix project (https://opus.nlpl.eu/WikiMatrix-v1.php) on OPUS (https://opus.nlpl.eu/). These where checked by five Eastern Lombard (Brescian) speakers in aproximately 42 hours.
+This is the first parallel corpus specifically built for Lombard-Italian. This is a manually revised version of the available alignments from the WikiMatrix project (https://opus.nlpl.eu/WikiMatrix-v1.php) on OPUS (https://opus.nlpl.eu/). These where checked by five Eastern Lombard (Brescian) speakers.
 
 ## Corpus statistics
 
