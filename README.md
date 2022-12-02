@@ -7,7 +7,7 @@
 
 ## Corpus statistics
 
-| N. of pairs | N. of words |         |       Avg. sentence length   |         |
+| N. of pairs | N. of words |         | Avg. sentence length |       |         |
 |:-----------:|:-----------:|:-------:|:--------------------:|:-----:|:-------:|
 |             |     LMO     |    IT   |          LMO         |   IT  |         |
 |     5306    |   122.550   | 113.385 |         23.10        | 21.37 |  train  |
